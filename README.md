@@ -21,6 +21,8 @@ loadingIndicator.startAnimating();
 alert.view.addSubview(loadingIndicator)
 ```
 
-All code was in [ViewController.swift](LoadingAsync/ViewController.swift)
+All code was in [`ViewController.swift`](LoadingAsync/ViewController.swift)
+
+
 ![](LoadingAsync-iOS.gif)
 
