@@ -13,6 +13,7 @@
 		A736352423C5DE220018E8A3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A736352223C5DE220018E8A3 /* Main.storyboard */; };
 		A736352623C5DE250018E8A3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A736352523C5DE250018E8A3 /* Assets.xcassets */; };
 		A736352923C5DE250018E8A3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A736352723C5DE250018E8A3 /* LaunchScreen.storyboard */; };
+		A7D79B2123C5ED380052B9B8 /* LoadingAsync-iOS.gif in Resources */ = {isa = PBXBuildFile; fileRef = A7D79B2023C5ED380052B9B8 /* LoadingAsync-iOS.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,8 @@
 		A736352523C5DE250018E8A3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A736352823C5DE250018E8A3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A736352A23C5DE250018E8A3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A7D79B1F23C5ED2F0052B9B8 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		A7D79B2023C5ED380052B9B8 /* LoadingAsync-iOS.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "LoadingAsync-iOS.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +43,8 @@
 		A736351023C5DE220018E8A3 = {
 			isa = PBXGroup;
 			children = (
+				A7D79B1F23C5ED2F0052B9B8 /* README.md */,
+				A7D79B2023C5ED380052B9B8 /* LoadingAsync-iOS.gif */,
 				A736351B23C5DE220018E8A3 /* LoadingAsync */,
 				A736351A23C5DE220018E8A3 /* Products */,
 			);
@@ -125,6 +130,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A7D79B2123C5ED380052B9B8 /* LoadingAsync-iOS.gif in Resources */,
 				A736352923C5DE250018E8A3 /* LaunchScreen.storyboard in Resources */,
 				A736352623C5DE250018E8A3 /* Assets.xcassets in Resources */,
 				A736352423C5DE220018E8A3 /* Main.storyboard in Resources */,
