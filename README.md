@@ -5,7 +5,7 @@ Creating a Async task with Combine, react to it by AlertViewController.
 ## One time Timer
 ```swift
 Just<Void>(()) // `()` represent Void
-	.delay(for: .seconds(loadTime), scheduler: queue)
+    .delay(for: .seconds(loadTime), scheduler: queue)
 ```
 
 ## Alert with UIActivityIndicatorView
